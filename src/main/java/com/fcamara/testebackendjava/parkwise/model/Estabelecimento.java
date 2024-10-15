@@ -36,4 +36,7 @@ public class Estabelecimento {
 
     @NotNull
     private int vagasCarros;
+
+    @NotNull
+    private String email;
 }
